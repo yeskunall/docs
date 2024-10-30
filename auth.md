@@ -32,7 +32,6 @@ It means that you can give credentials to the administrators of your app without
 You can convert any entity into an **authenticatable entity**, allowing users to log in with it.
 
 ```yaml
-# manifest/backend.yml
 entities:
   🤒 Patient:
     authenticable: true # Makes entity authenticable.

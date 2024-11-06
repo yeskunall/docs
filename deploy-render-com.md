@@ -4,8 +4,6 @@ id: deploy-render-com
 
 # Deploy Manifest on Render.com
 
-![Render.com homepage](./assets/images/deploy/renderhome.png)
-
 [Render](https://render.com) is a popular cloud provider that enables developers to ship apps without hassle.
 
 Create an account on render.com or sign in to your existing one.

@@ -4,8 +4,6 @@ id: deploy-fly-io
 
 # Deploy Manifest on Fly.io
 
-![Fly.io homepage](./assets/images/deploy/flyhome.png)
-
 [Fly.io](https://fly.io) is a cloud provider that focuses on user experience and zero-config deployments.
 
 First create a Fly.io account or sign in to access your dashboard. Click on "Launch an app" to start the process.

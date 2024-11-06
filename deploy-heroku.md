@@ -4,8 +4,6 @@ id: deploy-heroku
 
 # Deploy Manifest on Heroku
 
-![Heroku homepage](./assets/images/deploy/herokuhome.png)
-
 [Heroku](https://heroku.com/) is a popular cloud app platform provider that supports many languages and provides a nice interface to deploy apps.
 
 Sign in to your Heroku account or create a new one.

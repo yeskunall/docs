@@ -31,12 +31,10 @@ Choose the correct repository and click on "Connect" to continue.
 
 ## Configure your app
 
-![Render.com configuration](./assets/images/deploy/render1.png)
-
 The following screen will display a form with some fields that you have to configure:
 
 - **Region (optional):** Choose the closest region to your users
-- **Build command**: Enter `echo "No build step required"` as that field is mandatory, but no build command is needed
+- **Build command**: Enter `npm install`
 - **Start command**: The value should be `node node_modules/manifest/dist/manifest/src/main.js`
 - **Environment variables**: Add the 2 environment variables: `TOKEN_SECRET_KEY` (which you can generate at https://jwtsecret.com/generate) and `NODE_ENV=production`.
 

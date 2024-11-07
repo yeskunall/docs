@@ -10,22 +10,22 @@ Unless you have motives to do otherwise, **we recommend using app platform servi
 
 <div class="card-container">
   <a href="./deploy-digital-ocean.md" class="card" target="_blank">
-    <img src="./assets/images/deploy/digitalocean-icon.svg" alt="DigitalOcean Icon">
+    <img src="./assets/images/deploy/digitalocean-icon.svg" alt="DigitalOcean Icon" />
     <p>Deploy Manifest on DigitalOcean App Platform</p>
   </a>
   
   <a href="./deploy-fly-io.md" class="card" target="_blank">
-    <img src="./assets/images/deploy/fly-icon.svg" alt="Fly.io Icon">
+    <img src="./assets/images/deploy/fly-icon.svg" alt="Fly.io Icon" />
     <p>Deploy Manifest on Fly.io</p>
   </a>
   
   <a href="./deploy-render-com.md" class="card" target="_blank">
-    <img src="./assets/images/deploy/render-icon.svg" alt="Render.com Icon">
+    <img src="./assets/images/deploy/render-icon.svg" alt="Render.com Icon" />
     <p>Deploy Manifest on Render.com</p>
   </a>
   
   <a href="./deploy-heroku.md" class="card" target="_blank">
-    <img src="./assets/images/deploy/heroku-icon.svg" alt="Heroku Icon">
+    <img src="./assets/images/deploy/heroku-icon.svg" alt="Heroku Icon" />
     <p>Deploy Manifest on Heroku</p>
   </a>
 </div>

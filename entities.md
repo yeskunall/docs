@@ -5,11 +5,11 @@ title: Entities
 
 # Create an entity
 
-An entity is an model of objects linked to real world concepts. Creating an entity in manifest generates **CRUD endpoints** that can be used by the [REST API](rest-api.md) or the [SDK](javascript-sdk.md).
+An entity is a model of objects linked to real-world concepts. Creating an entity in manifest generates **CRUD endpoints** that can be used by the [REST API](rest-api.md) or the [SDK](javascript-sdk.md).
 
 All entities are located in the `backend.yml` file under the **entities** property.
 
-There are 2 types of entities in Manifest: [Collections](#collections) and [Singles](#singles). **Collections** are multiple instances of similar data, stored as a list. Ex: users, customers, videos, etc. Singles are unique, standalone data that are singular in nature. Ex: home content, about content, settings, logo...
+There are 2 types of entities in Manifest: [Collections](#collections) and [Singles](#singles). **Collections** are multiple instances of similar data, stored as a list. E.g., users, customers, videos, etc. Singles are unique, standalone data that are singular in nature. E.g., home content, about content, settings, logo...
 
 ## Collections
 
@@ -73,7 +73,7 @@ entities:
 
 Single entities differ a bit from [collections](#collections). A single entity is **singular in nature**, and there can be only one record of them. Examples are website dynamic elements, pages, standalone content or settings. They do not have relations.
 
-On single entities **Create** and **Delete** CRUD actions are disabled. thus the [REST API endpoints for single](./rest-api.md#singles) are different.
+On single entities **Create** and **Delete** CRUD actions are disabled. Thus, the [REST API endpoints for single entities](./rest-api.md#singles) are different.
 
 ```yaml
 ContactPage:

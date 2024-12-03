@@ -60,6 +60,14 @@ Textarea field for medium-size texts.
 - { name: description, type: text }
 ```
 
+### Rich text
+
+Rich text field for HTML content. The admin panel input can generate basic HTML tags like bold, italic, headings, links and bullet lists.
+
+```yaml
+- { name: description, type: richText }
+```
+
 ### Number
 
 A numerical value.

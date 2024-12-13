@@ -103,7 +103,7 @@ When filtering, you have access to the following operators: `=`, `>`, `>=`, `<`,
 
 ## Get started with your favorite front-end framework
 
-See the following quick start guides to integrate CASE with popular front-end frameworks:
+See the following quick start guides to integrate Manifest with popular front-end frameworks:
 
 - [Get started with Angular](angular.md)
 - [Get started with Astro](astro.md)
